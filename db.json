@@ -1,0 +1,48 @@
+{
+    "smugglersList": [
+        {
+            "fullName": "BoShek",
+            "id": "ContrabandistID.first",
+            "height": 1.75,
+            "weight": 75,
+            "kills": 134,
+            "spaceship": "TIE Starfighter",
+            "planet": "Tatooine",
+            "imageFile": "BoShek-SWCT.png",
+            "imageDescrip": "contrabandist BoShek"
+        },
+        {
+            "fullName": "Lando Calrissian",
+            "id": "ContrabandistID.second",
+            "height": 1.80,
+            "weight": 82,
+            "kills": 206,
+            "spaceship": "Lady Luck",
+            "planet": "Bespin",
+            "imageFile": "Lando_Calrissian.png",
+            "imageDescrip": "contrabandist Lando Calrissian"
+        },
+        {
+            "fullName": "Chewbacca",
+            "id": "ContrabandistID.third",
+            "height": 1.95,
+            "weight": 97,
+            "kills": 267,
+            "spaceship": "Millennium Falcon",
+            "planet": "Endor",
+            "imageFile": "chewbacca.png",
+            "imageDescrip": "contrabandist Chewbacca"
+        },
+        {
+            "fullName": "Han Solo",
+            "id": "ContrabandistID.fourth",
+            "height": 1.75,
+            "weight": 78,
+            "kills": 280,
+            "spaceship": "Millennium Falcon",
+            "planet": "Corellia",
+            "imageFile": "han-solo.png",
+            "imageDescrip": "contrabandist Han Solo"
+        }
+    ]
+}
