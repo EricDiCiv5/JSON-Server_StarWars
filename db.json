@@ -2,7 +2,7 @@
     "smugglersList": [
         {
             "fullName": "BoShek",
-            "id": "ContrabandistID.first",
+            "id": 1,
             "height": 1.75,
             "weight": 75,
             "kills": 134,
@@ -13,7 +13,7 @@
         },
         {
             "fullName": "Lando Calrissian",
-            "id": "ContrabandistID.second",
+            "id": 2,
             "height": 1.80,
             "weight": 82,
             "kills": 206,
@@ -24,7 +24,7 @@
         },
         {
             "fullName": "Chewbacca",
-            "id": "ContrabandistID.third",
+            "id": 3,
             "height": 1.95,
             "weight": 97,
             "kills": 267,
@@ -35,7 +35,7 @@
         },
         {
             "fullName": "Han Solo",
-            "id": "ContrabandistID.fourth",
+            "id": 4,
             "height": 1.75,
             "weight": 78,
             "kills": 280,
